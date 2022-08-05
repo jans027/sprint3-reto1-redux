@@ -73,14 +73,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Instalaciones
 
+<!-- instalaciones redux -->
 npm install react-redux redux
 
+npm install redux-devtools
 
+npm install redux-thunk
 
+npm install axios
+<!--..................... -->
 
-
-
-
-
-
+<!-- ...firebase.......... -->
+npm install firebase
 
