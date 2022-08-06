@@ -85,4 +85,17 @@ npm install axios
 
 <!-- ...firebase.......... -->
 npm install firebase
+<!-- ..................... -->
+
+
+<!-- ....rutas react....... -->
+
+npm i react-router-dom
+
+<!-- ..................... -->
+
+
+
+
+
 
